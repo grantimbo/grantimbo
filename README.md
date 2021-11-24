@@ -1,8 +1,8 @@
 ## Hi, I'm Grant.
 
-Developer by day. Artist by night. Curently working as a full-time Front-End Developer and in spare time, rendering  [cars](https://youtube.com/grantimbo)  as a hobby.
+Developer by day. Artist by night. Curently working as a full-time Front-End engineer and in spare time, rendering  [cars](https://youtube.com/grantimbo)  as a hobby.
 
-![](https://raw.githubusercontent.com/grantimbo/grntx-nxt/master/public/imgs/home-bg-sm.png)
+![](https://raw.githubusercontent.com/grantimbo/grntx-nxt/master/public/imgs/home-bg-lg.png)
 
 
 ### 👨🏻‍💻 &nbsp;My Past Gigs
@@ -28,23 +28,18 @@ Developer by day. Artist by night. Curently working as a full-time Front-End Dev
 I believe anything can be overcome through commitment and hard work. Always up for learning new things and never gets satisfied with an average output, always striving for something better and fresh.
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Most Used Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=Svelte)&nbsp;
+![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next.js)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![TailWind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Cinema4D](https://img.shields.io/badge/Cinema4D-05122A?style=flat&logo=cinema4D&logoColor=b4b6bd)
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)&nbsp;
+![OctaneRender](https://img.shields.io/badge/-OctaneRender-05122A?style=flat&logo=Octane Render)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
