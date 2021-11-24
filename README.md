@@ -1,11 +1,9 @@
-## Hi, I'm Grant.
+## Hi, I'm Grant :wave:
 
-Developer by day. Artist by night. Curently working as a full-time Front-End engineer and in spare time, rendering  [cars](https://youtube.com/grantimbo)  as a hobby.
-
-![](https://raw.githubusercontent.com/grantimbo/grntx-nxt/master/public/imgs/home-bg-sm.png)
+Developer by day. Artist by night. Curently working as a full-time Front-End engineer and in spare time, rendering  [cars](https://youtube.com/grantimbo) for fun.
 
 
-### 🛠 &nbsp;Most Used Tech Stack
+### :hammer_and_wrench: &nbsp;Most Used Tech Stack
 
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -18,7 +16,7 @@ Developer by day. Artist by night. Curently working as a full-time Front-End eng
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)&nbsp;
 ![OctaneRender](https://img.shields.io/badge/-Octane&nbsp;Render-05122A?style=flat&logo=OctaneRender)
 
-### 🤝🏻 &nbsp;Connect with Me
+###	:handshake: &nbsp;Connect with Me
 
 <a href="https://www.grantimbo.com"><img src="https://img.shields.io/badge/-grantimbo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://youtube.com/grantimbo"><img src="https://img.shields.io/badge/@grantimbo-red?style=flat&logo=Youtube&logoColor=white"/></a>
