@@ -1,6 +1,6 @@
 ## Hi, I'm Grant :wave:
 
-Developer by day. Artist by night. Curently working as a full-time Front-End engineer and in spare time, rendering  [cars](https://youtube.com/grantimbo) for fun.
+Developer by day. Artist by night. Curently working as a full-time Front-End engineer and in spare time rendering  [cars](https://youtube.com/grantimbo) for fun.
 
 
 ### :hammer_and_wrench: &nbsp;Most Used Tech Stack
@@ -16,7 +16,7 @@ Developer by day. Artist by night. Curently working as a full-time Front-End eng
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)&nbsp;
 ![OctaneRender](https://img.shields.io/badge/-Octane&nbsp;Render-05122A?style=flat&logo=OctaneRender)
 
-###	:handshake: &nbsp;Connect with Me
+###	:handshake: &nbsp;Lets Connect
 
 <a href="https://www.grantimbo.com"><img src="https://img.shields.io/badge/-grantimbo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://youtube.com/grantimbo"><img src="https://img.shields.io/badge/@grantimbo-red?style=flat&logo=Youtube&logoColor=white"/></a>
